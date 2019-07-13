@@ -1,2 +1,2 @@
 # myRepo
-"Now I am making some changes in my file and creating a second commit. Lets see how it works."
+"I am making more changes in my file and creating a third commit."
